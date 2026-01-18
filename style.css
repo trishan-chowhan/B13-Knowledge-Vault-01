@@ -209,3 +209,11 @@ footer .img{
     font-size: 22px;
     color: #d6e2dc;
 }
+
+footer .copyright-section {
+    text-align: center;
+    padding-top: 20px;
+    border-top: 1px solid #ebdedd;
+    max-width: 1600px;
+    color: #e4e9ec;
+}
