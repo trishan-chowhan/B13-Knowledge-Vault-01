@@ -181,4 +181,31 @@ header {
 }
 
 
+footer {
+    background: #1e2956;
+    color: #94a3b8;
+    padding: 40px 20px;
+    width: 1600px;
+    height: 348;
+}
 
+.footer {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer .Social {
+    font-size: 30px;
+    padding: 15px 20px;
+    justify-content: right;
+}
+
+footer .img{
+    display: flex;
+    padding: 15px 20px;
+    justify-content: right;
+    font-size: 22px;
+    color: #d6e2dc;
+}
